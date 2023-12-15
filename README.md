@@ -1,6 +1,6 @@
 # 👋 Hey there
 
-<div align="justify">Mi nombre es Dilan y soy una persona a la que le encanta aprender cosas nuevas en tecnología y en la vida en general.</div> 
+<div align="justify">Mi nombre es Dilan y soy una persona a la que le encanta aprender cosas nuevas en el area de tecnología y en la vida en general.</div> 
 
 # 🔧 Technologies & Tools
 

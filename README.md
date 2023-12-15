@@ -31,7 +31,7 @@
     <td align="center" height="108" width="108">
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="viento de cola" width="48" height="48"/> </a>
           <br /><strong>Tailwind</strong>
-    </td>
+    </td><!-- 
     <td align="center" height="108" width="108">
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="48" height="48"/> </a>
           <br /><strong>Node.js</strong>
@@ -79,7 +79,7 @@
         alt="Material UI"
       />
       <br /><strong>Material UI</strong>
-    </td>
+    </td> -->
   </tr>
 
    

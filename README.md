@@ -91,5 +91,8 @@
 <p align="left">
 
   🌱 Actualmente estoy aprendiendo **JavaScript**
+</p>
+<br/>
+<p align="left">
 ⚡ Dato curioso **Me tomó mucho tiempo aprender mi primer lenguaje de programación**
 </p>

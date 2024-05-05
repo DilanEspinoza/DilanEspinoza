@@ -88,7 +88,4 @@
 
 
 &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=dilanespinoza&show_icons=true&locale=en" alt="dilanespinoza" /></p>
-<p align="left">
 
-  🌱 Actualmente estoy aprendiendo **JavaScript**- ⚡ Dato curioso **Me tomó mucho tiempo aprender mi primer lenguaje de programación**
-</p>

@@ -1,91 +1,56 @@
-# 👋 Hey there
 
-<div align="justify">My name is Dilan, I am a person who loves to learn new things about technology and life in general.</div> 
+#  Hey there 👋
 
-# 🔧 Technologies & Tools
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+profile;"></a>
+</p>
 
-<table>
-  <tr>
-    <td align="center" height="108" width="108">
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="48" height="48"/> </a>
-          <br /><strong>Html</strong>
-    </td>
-    <td align="center" height="108" width="108">
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="48" height="48"/> </a>
-          <br /><strong>Css</strong>
-    </td> 
-    <td align="center" height="108" width="108">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48"/> </a>
-          <br /><strong>JavaScript</strong>
-    </td>
-    </td>
-    <td align="center" height="108" width="108">
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="48" height="48"/>
-          <br /><strong>Php</strong>
-    </td>
-    <td align="center" height="108" width="108">
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="48" height="48"/> </a>
-          <br /><strong>React</strong>
-    </td>
-    </td>
-    <td align="center" height="108" width="108">
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="viento de cola" width="48" height="48"/> </a>
-          <br /><strong>Tailwind</strong>
-    </td><!-- 
-    <td align="center" height="108" width="108">
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="48" height="48"/> </a>
-          <br /><strong>Node.js</strong>
-    </td>
-  </tr>
-    <td align="center" height="108" width="108">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="48"/> </a>
-          <br /><strong>Python</strong>
-    </td>
-    <td align="center" height="108" width="108">
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="48" height="48"/></a>
-          <br /><strong>Django</strong>
-    </td>
-    <td align="center" height="108" width="108">
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
-          <br /><strong>MongoDB</strong>
-    </td>
-    <td align="center" height="108" width="108">
- <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="48" height="48"/>
-          <br /><strong>PostgreSQL</strong>
-    </td>
- <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-        width="48"
-        height="48"
-        alt="Next.js"
-      />
-      <br /><strong>Next.js</strong>
-    </td>
-         <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
-        width="48"
-        height="48"
-        alt="VueJS"
-      />
-      <br /><strong>Vue</strong>
-    </td>
-       <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
-        width="48"
-        height="48"
-        alt="Material UI"
-      />
-      <br /><strong>Material UI</strong>
-    </td> -->
-  </tr>
+## <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 25px><b> About me</b>
 
+<p>
+  Hello! I'm Dilan Espinoza, a passionate self-taught programmer with approximately 3 years of experience in web development. During this time, I have acquired solid skills in programming.
+</p>
+
+<p>
+  I am currently delving deep into React.js and plan to expand my skills to technologies like Next.js. Additionally, I have future plans to learn Python and explore its ecosystem for applications in ethical hacking, machine learning, artificial intelligence, among other fascinating fields.
+</p>
+
+<p>As for my education, I am in my final year of high school at Institucion Educativa Pomasqui.</p>
+
+<p>What motivates me the most in programming is the ability to materialize ideas and create solutions that are useful for people. I am fascinated by technology and its potential to transform the world.</p>
+
+<p>Outside the technological realm, I enjoy playing ecuavoly, practicing boxing, and exploring different cuisines.</p>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
+
+   #### Languages:
+   [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+   [![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23F7DF1E)](https://www.typescriptlang.org/)
    
-</table>
+   ### Web Development:
+   [![PHP](https://img.shields.io/badge/php-%234F5B93.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+   [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
+   [![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+   
+   ### Database:
+   [![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+  
+   ### Frameworks:
+   ![Django](https://img.shields.io/badge/django-%2338B2AC.svg?style=for-the-badge&logo=django&logoColor=white)
 
 
+## <b>Contact</b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
 
-&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=dilanespinoza&show_icons=true&locale=en" alt="dilanespinoza" /></p>
+You can reach out to me through the following channels:
 
+ [![Correo Electrónico](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:tu_correo@example.com)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tu_perfil)
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/tu_usuario)
+ [![](https://img.shields.io/badge/-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/tu_usuario)
+
+I'm always open to new opportunities, collaborations, and discussions about technology and development. Feel free to contact me if you have any questions or just want to chat about interesting projects.
+
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>

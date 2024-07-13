@@ -45,7 +45,7 @@ You can reach out to me through the following channels:
 
  [![Correo Electrónico](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:dilan.developer22@gmail.com)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dilan-espinoza-857291262/)
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/dilan_developer)
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/dilan_deve)
  [![](https://img.shields.io/badge/-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/tu_usuario)
 
 I'm always open to new opportunities, collaborations, and discussions about technology and development. Feel free to contact me if you have any questions or just want to chat about interesting projects.

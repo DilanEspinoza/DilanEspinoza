@@ -50,7 +50,3 @@ You can reach out to me through the following channels:
 
 I'm always open to new opportunities, collaborations, and discussions about technology and development. Feel free to contact me if you have any questions or just want to chat about interesting projects.
 
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>

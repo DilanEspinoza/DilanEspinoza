@@ -1,27 +1,25 @@
-
-#  Hello, I'm Dilan Espinoza  👋
+# Hello, I'm Dilan Espinoza 👋
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+profile;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+profile;" alt="Typing animation"/>
+  </a>
 </p>
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="25px"> <b>About Me</b>
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="25px" alt="About Me icon"> <b>About Me</b>
 
-<p>
-  Hello! I'm Dilan Espinoza, a passionate self-taught programmer with approximately 3 years of experience in web development. During this time, I have acquired solid skills in programming.
-</p>
+Hello! I'm Dilan Espinoza, a passionate self-taught programmer with approximately 3 years of experience in web development. Throughout this journey, I've built a solid programming foundation and continually strive to expand my knowledge.
 
-<p>
-  I am currently delving deep into React.js and plan to expand my skills to technologies like Next.js. Additionally, I have future plans to learn Python and explore its ecosystem for applications in ethical hacking, machine learning, artificial intelligence, among other fascinating fields.
-</p>
+I'm currently delving into **Python 🐍** and plan to expand my experience with technologies like **Django** and the **Django Rest Framework**. In the near future, my goal is to continue learning new programming languages and exploring their ecosystems, especially in areas like ethical hacking, machine learning, and artificial intelligence.
 
+What motivates me most about programming is the ability to bring my ideas to life and create solutions that positively impact people. I'm fascinated by how technology can transform the world.
 
+Outside of the tech world, I enjoy playing **ecuavoly** and practicing **MMA**.
 
-<p>What motivates me the most in programming is the ability to materialize ideas and create solutions that are useful for people. I am fascinated by technology and its potential to transform the world.</p>
+---
 
-<p>Outside the technological realm, I enjoy playing ecuavoly and practicing MMA.</p>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" alt="Skills icon"> <b>Skills</b>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
 
   #### 🧠 Languages:
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)

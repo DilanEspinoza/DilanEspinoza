@@ -15,11 +15,11 @@
   I am currently delving deep into React.js and plan to expand my skills to technologies like Next.js. Additionally, I have future plans to learn Python and explore its ecosystem for applications in ethical hacking, machine learning, artificial intelligence, among other fascinating fields.
 </p>
 
-<p>As for my education, I am in my final year of high school at Institucion Educativa Pomasqui.</p>
+
 
 <p>What motivates me the most in programming is the ability to materialize ideas and create solutions that are useful for people. I am fascinated by technology and its potential to transform the world.</p>
 
-<p>Outside the technological realm, I enjoy playing ecuavoly, practicing boxing, and exploring different cuisines.</p>
+<p>Outside the technological realm, I enjoy playing ecuavoly and practicing MMA.</p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
 
@@ -28,9 +28,11 @@
    [![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23F7DF1E)](https://www.typescriptlang.org/)
    
    ### Web Development:
-   [![PHP](https://img.shields.io/badge/php-%234F5B93.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+   
    [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
    [![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+   [![Node.js](https://img.shields.io/badge/node.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+   [![Express.js](https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
    
    ### Database:
    [![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)

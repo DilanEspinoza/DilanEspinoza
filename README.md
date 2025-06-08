@@ -1,15 +1,5 @@
 # Hello, I'm Dilan Espinoza 👋
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+profile;" alt="Typing animation"/>
-  </a>
-</p>
-
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="Waving hand gif"> <b>About Me</b>
-
-
 Hello! I'm Dilan Espinoza, a passionate self-taught programmer with approximately 3 years of experience in web development. Throughout this journey, I've built a solid programming foundation and continually strive to expand my knowledge.
 
 I'm currently delving into **Python 🐍** and plan to expand my experience with technologies like **Django** and the **Django Rest Framework**. In the near future, my goal is to continue learning new programming languages and exploring their ecosystems, especially in areas like ethical hacking, machine learning, and artificial intelligence.
@@ -17,6 +7,11 @@ I'm currently delving into **Python 🐍** and plan to expand my experience with
 What motivates me most about programming is the ability to bring my ideas to life and create solutions that positively impact people. I'm fascinated by how technology can transform the world.
 
 Outside of the tech world, I enjoy playing **ecuavoly** and practicing **MMA**.
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="Waving hand gif"> <b>About Me</b>
+
+
+
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" alt="Skills icon"> <b>Skills</b>

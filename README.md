@@ -29,14 +29,4 @@ Outside of the tech world, I enjoy playing **ecuavoly** and practicing **MMA**.
 [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 
 
-## <b>Contact</b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
-
-You can reach out to me through the following channels:
-
- [![Correo Electrónico](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:dilan.developer22@gmail.com)
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dilan-espinoza-857291262/)
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]([https://www.instagram.com/dilan_dev](https://www.instagram.com/sabuthess/))
-
-
-I'm always open to new opportunities, collaborations, and discussions about technology and development. Feel free to contact me if you have any questions or just want to chat about interesting projects.
 
